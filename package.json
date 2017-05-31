@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
+  },"engine": {
+    "node": "*",
+    "npm": "*"
   },
   "author": "",
   "license": "ISC",
@@ -28,8 +31,5 @@
     "request": "*",
     "request-promise": "*",
 "serve-favicon":"*"
-  },"engine": {
-    "node": "*",
-    "npm": "*"
-  },
+  }
 }
