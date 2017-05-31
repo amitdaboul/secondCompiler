@@ -28,5 +28,8 @@
     "request": "*",
     "request-promise": "*",
 "serve-favicon":"*"
-  }
+  },"engine": {
+    "node": "*",
+    "npm": "*"
+  },
 }
